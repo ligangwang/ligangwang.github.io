@@ -1,2 +1,1 @@
-# ligangwang.github.io
-My tech playground
+# My tech playground
